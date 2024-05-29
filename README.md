@@ -16,10 +16,15 @@ If you don't want to read a full length book, I keep track of a lot of short for
 * [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 * [Start With Why](https://www.goodreads.com/book/show/7108725-start-with-why)
 * [Managing Humans](https://www.goodreads.com/book/show/1317946.Managing_Humans)
+* [Team Topologies](https://www.goodreads.com/book/show/44135420-team-topologies)
 
 ## Pure Software engineering
 * [Building Microservices - Sam Newman](https://www.goodreads.com/book/show/24836465-building-microservices)
 * [How to build services effectively](https://www.goodreads.com/book/show/17346969-restful-web-apis)
+* [Everything about DevOps](https://topenddevs.com/podcasts/adventures-in-devops#player1?catid=0&trackid=0) - Podcast
+
+## Security focus
+* [Security NewsLetter](https://tldrsec.com/) - email newsletter
 
 ## Systems thinking and optimizing teams/collaboration
 * [The Formula](https://www.goodreads.com/book/show/39088545-the-formula)
