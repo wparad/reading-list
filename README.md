@@ -4,7 +4,7 @@ This is my list of curated reading for anyone in or around technology or leaders
 
 **Note: Many of these books may seem like the might not be necessary or relevant, but all of them offer significant value to those in both technology and leadership fields, even if at first glance they might not.**
 
-While I highly recommend just pulling something off my [Goodreads Read List](https://www.goodreads.com/review/list/49746003?shelf=read) or the Standup & Prosper's team's [Leadership 101 List](https://github.com/Standup-and-Prosper/leadership101/blob/master/README.md). But if you would prefer a more curated list, here it is. And if you want to chat with me about any of these, I'm on [Discordhttps://rhosys.ch/community].
+While I highly recommend just pulling something off my [Goodreads Read List](https://www.goodreads.com/review/list/49746003?shelf=read) or the Standup & Prosper's team's [Leadership 101 List](https://github.com/Standup-and-Prosper/leadership101/blob/master/README.md). But if you would prefer a more curated list, here it is. And if you want to chat with me about any of these, I'm on [Discord](https://rhosys.ch/community].
 
 # Shorts
 If you don't want to read a full length book, I keep track of a lot of short form articles that have been great. The list of those is currently in this [github repository](https://github.com/wparad/wparad/wiki#great-knowledge-sources).
