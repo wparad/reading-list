@@ -48,6 +48,8 @@ If you don't want to read a full length book, I keep track of a lot of short for
 * [Difficult Conversations - By Stone](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 
 ## Agile and Working effectively
+* [Radical Focus](https://www.goodreads.com/book/show/57802947-radical-focus)
+* [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 * [Agile Manifesto](https://agilemanifesto.org/)
 * [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 * [How to work effectively as a team - Management 3.0 by Jurgen Appelo](https://www.goodreads.com/book/show/10210821-management-3-0)
